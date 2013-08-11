@@ -1,0 +1,4 @@
+Pillow==2.1.0
+argparse==1.2.1
+selenium==2.34.0
+stepic==0.4-bzr
